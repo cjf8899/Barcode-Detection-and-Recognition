@@ -3,7 +3,7 @@
 바코드의 특성을 활용하여 영상처리 및 OpenCV를 바탕으로 영상에서의 바코드 영역들을 탐지한다. 또한, 오픈라이브러리인 Zbar를 사용하여 탐지된 바코드 영역들을 다중으로 인식한다.
 
 ## Demo
-<img src="./Demo.gif" width="80%" height="80%" title="70px" alt="memoryblock">
+<img src="./Demo.gif" width="90%" height="90%" title="70px" alt="memoryblock">
 
 
 ## Image processing used for barcode detection
