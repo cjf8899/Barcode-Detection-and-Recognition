@@ -4,7 +4,7 @@
 
 ## Demo
 
-gif 파일 넣기
+![demo](./Demo.gif)
 
 ## Image processing used for barcode detection
 
