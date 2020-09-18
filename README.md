@@ -6,12 +6,12 @@
 <img src="./img/Demo.gif" width="90%" height="90%" title="70px" alt="memoryblock">
 
 
-## Image processing used for barcode detection
+## Barcode Detection Algorithm
 
 바코드를 디텍션 하기위해 아래 이미지와 같은 영상처리기법들을 사용하였다.
 
 <img src="./img/flow.jpg" width="90%" height="90%" title="70px" alt="memoryblock">
 
-## Multiple Recognition using Zbar
+## Crop & Multiple Recognition using Zbar
 
 오픈 라이브러리 Zbar를 사용하여 앞서 시행한 전처리를 통해 얻은 바코드 영역을 다중으로 인식한다.
