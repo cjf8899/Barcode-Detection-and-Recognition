@@ -42,3 +42,10 @@
     <em>only zbar, detection + zbar</em>
 </p>
 
+## Development Environment
+
+* C++
+* OpenCV 4.4.0
+* Zbar 0.2.3
+* Ubunto 16
+* Webcam
