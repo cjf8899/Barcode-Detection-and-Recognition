@@ -17,12 +17,15 @@
 딥러닝 기반의 합성곱신경망(CNN)인 SR(Super resolution)을 활용한 Deblurring을 통하여 손 떨림 등과 같은 현실에서 발생할 수 있는 노이즈를 제거한다.
 
 <img src="./img/sr.jpg" width="70%" height="70%" title="70px" alt="memoryblock">
+
 ###### super resolution architecture
 
 <img src="./img/sr_before.jpg" width="50%" height="50%" title="70px" alt="memoryblock">
+
 ###### SR before
 
 <img src="./img/sr_after.jpg" width="50%" height="50%" title="70px" alt="memoryblock">
+
 ###### SR after
 
 ## Crop & Multiple Recognition using Zbar
