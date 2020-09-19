@@ -39,7 +39,7 @@
 오픈 라이브러리 Zbar를 사용하여 앞서 시행한 전처리를 통해 얻은 바코드 영역을 다중으로 인식한다.
 <p align="center"><img src="./img/zbar.jpg" width="50%" height="50%" title="70px" alt="memoryblock"><img src="./img/Detec_zbar.jpg" width="50%" height="50%" title="70px" alt="memoryblock"></p>
 <p align="center">
-    <em>only zbar</em><em>       </em><em>detection + zbar</em>
+    <em>only zbar result, detection + zbar result</em> 
 </p>
 
 ## Development Environment
