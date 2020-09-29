@@ -47,5 +47,5 @@
 * C++
 * OpenCV 4.4.0
 * Zbar 0.2.3
-* Ubunto 16
+* Ubunto 16.04
 * Webcam
